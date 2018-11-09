@@ -8,9 +8,7 @@
 //esto igual queremos guardar en el ultimo commit
 //esto igual falto
 //otra modificiacion
-<<<<<<< HEAD
-=======
 
 //esto esta en rama segunda
->>>>>>> segunda
+
 //jgsjhvws
